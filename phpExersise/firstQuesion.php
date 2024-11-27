@@ -7,8 +7,11 @@
 
     $sum = $a + $b ;
     
-    echo $c= $a + $b;
+    echo $c= $a + $b ;
+    
+    echo " 
+"; 
+    echo $sum ;
 
-    echo $sum;
     
 ?>
